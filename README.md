@@ -4,6 +4,10 @@
 
 This project is designed to parse CSV files containing taxi trip data, identify and handle duplicate records, and bulk insert the valid records into an MS SQL database. The project leverages dependency injection for service management and follows best practices for configuration and error handling.
 
+### **The Database**
+
+TRhe database was configured as an RDS SQL Server on Amazon!
+
 ### **Project Structure**
 
 - **Common**: Contains common utilities and the DI (Dependency Injection) extension.
