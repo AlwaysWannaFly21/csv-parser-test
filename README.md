@@ -56,8 +56,6 @@ CREATE TABLE TaxiTrips (
 );
 ```
 
-### To run a project
-
 ### **Running the Project**
 
 1. Ensure **`appsettings.json`** is properly configured.
@@ -65,3 +63,6 @@ CREATE TABLE TaxiTrips (
 3. I will send a connectionString in a mail.
 4. Build the project. (or use a docker)
 5. Run the project.
+
+### **Performance**
+If we had to work with 10GB file, for really large datasets, we might want to look into distributed processing frameworks like **Apache Spark** or **Hadoop**. These tools are designed to handle big data and can process large files more efficiently than a single machine.
