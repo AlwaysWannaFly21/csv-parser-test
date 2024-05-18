@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "csv-parser": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
