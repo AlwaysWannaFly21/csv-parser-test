@@ -6,7 +6,7 @@ This project is designed to parse CSV files containing taxi trip data, identify 
 
 ### **The Database**
 
-TRhe database was configured as an RDS SQL Server on Amazon!
+The database was configured as an RDS SQL Server on Amazon!
 
 ### **Project Structure**
 
